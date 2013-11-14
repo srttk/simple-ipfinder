@@ -2,7 +2,7 @@
 #17/March/2012
 #Sarath
 #http://github.com/saratonite
-#IP Tracker Tool
+#IP Finder Tool
 import socket
 import os
 def trackme():
